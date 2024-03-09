@@ -1,0 +1,4 @@
+{"level":"error","AppName":"MyApp","entityInfo":{"ID":1,"UserFullName":"Max Sullivan","UserId":"09156207562","Price":100,"Status":true,"NotificationType":"Sms"},"error":"order price is not valid","time":"2024-02-22T14:56:38+03:30","message":"order 1 is not valid"}
+{"level":"info","AppName":"MyApp","order":{"ID":2,"UserFullName":"Max John","UserId":"0915","Price":8000,"Status":true,"NotificationType":"Email"},"time":"2024-02-22T14:56:38+03:30","message":"Order created"}
+{"level":"info","AppName":"MyApp","time":"2024-02-22T14:56:38+03:30","message":"Notifier Founded: *externalServices.EmailService"}
+{"level":"info","AppName":"MyApp","notifier":"EmailService","messageInfo":{"receiver":"0915","message":"Order created"},"time":"2024-02-22T14:56:38+03:30","message":"message sent "}
